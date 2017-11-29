@@ -5,6 +5,6 @@ I had asked an RTFM question and to return the favour of the answers said I do a
 Here you go:
 
 - sources are in `src/latex`
-- current version as compiled PDF on the project wiki
+- current version as compiled PDF on the project link:https://github.com/vdmeer/eclipse-cs/wiki[Wiki]
 
 /sven
