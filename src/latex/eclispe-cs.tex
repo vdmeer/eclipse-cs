@@ -1,0 +1,58 @@
+\documentclass[10pt,a4paper,final,notitlepage]{article}
+
+\input{_packages}
+\usepackage[landscape]{geometry}
+\input{_page-settings}
+
+%\RequirePackage[printonlyused,nolist]{acronym}
+%\input{../theory/tex-commands}
+
+% Turn off header and footer
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\lfoot{v0.0.1}
+\rfoot{\today}
+\cfoot{\ccLogo{} \ccAttribution{} \ccShareAlike}
+
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+	\setlength{\columnseprule}{0.25pt}
+
+	\section{Eclipse Cheatsheet (Oxygen)}
+
+		\begin{multicols}{3}
+			\raggedright
+			\footnotesize
+
+			\setlength{\columnseprule}{0.25pt}
+			\setlength{\premulticols}{1pt}
+			\setlength{\postmulticols}{1pt}
+			\setlength{\multicolsep}{1pt}
+			\setlength{\columnsep}{2pt}
+			\raggedcolumns
+
+			\input{keys-files}
+			\input{keys-edit}
+			\input{keys-navigate}
+			\input{keys-java-editor}
+			\input{keys-source}
+			\input{keys-search}
+			\input{keys-project}
+			\input{keys-refactor}
+			\input{keys-launch}
+			\input{keys-debug}
+			\input{keys-coverage-view}
+
+			\rule{0.3\linewidth}{0.25pt}
+			\scriptsize
+
+			Copyright \copyright\ 2017 Sven van der Meer, CC BY-SA 4.0
+
+			\url{https://www.github.com/vdmeer/eclipse-cs}
+
+		\end{multicols}
+%		\newpage
+
+\end{document}
