@@ -1,1 +1,10 @@
 = Eclipse Cheat Sheet
+
+The idea of a cheat sheet came from a discussion on Twitter with @noopur2507 and @EclipseJavaIDE.
+I had asked an RTFM question and to return the favour of the answers said I do a cheat sheet.
+Here you go:
+
+- sources are in `src/latex`
+- current version as compiled PDF on the project wiki
+
+/sven
