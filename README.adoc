@@ -1,10 +1,5 @@
 = Eclipse Cheat Sheet
 
-The idea of a cheat sheet came from a discussion on Twitter with @noopur2507 and @EclipseJavaIDE.
-I had asked an RTFM question and to return the favour of the answers said I do a cheat sheet.
-Here you go:
-
-- sources are in `src/latex`
-- current version as compiled PDF on the project link:https://github.com/vdmeer/eclipse-cs/wiki[Wiki]
-
-/sven
+A cheat sheet for Eclipse (key bindings and more).
+The idea of a cheat sheet came from a discussion on Twitter with https://twitter.com/@noopur2507[@noopur2507] and https://twitter.com/@EclipseJavaIDE[@EclipseJavaIDE].
+I had asked an RTFM question and to return the favor of the answers said I do a cheat sheet.
